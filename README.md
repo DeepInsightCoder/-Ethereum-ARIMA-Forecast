@@ -30,7 +30,7 @@ This graph compares the actual vs forecasted ETH prices for the last 30 days.
 
 ## How to Run
 
-1. Clone this repository: git clone https://github.com/DeepInsightCoder/Ethereum-ARIMA-Forecast.git cd Ethereum Arima Forecast
+1. Clone this repository: git clone https://github.com/DeepInsightCoder/Ethereum-ARIMA-Forecast.git
    
 2. Install dependencies: pip install pandas numpy matplotlib statsmodels scikit-learn
 
